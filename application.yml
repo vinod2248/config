@@ -1,2 +1,2 @@
 my:
-  greeting: "hello"
+  greeting: hello world from config server
